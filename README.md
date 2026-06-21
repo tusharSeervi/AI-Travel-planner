@@ -89,7 +89,7 @@ npm run dev
 **Frontend → Vercel**
 1. Connect GitHub repo to Vercel
 2. Root dir: `frontend`
-3. Add env var: `NEXT_PUBLIC_API_URL=https://your-render-backend.onrender.com/api`
+3. Add env var: `NEXT_PUBLIC_API_URL=https://ai-travel-planner-0o39.onrender.com/api`
 
 ## Environment Variables
 
@@ -104,7 +104,7 @@ PORT=5000
 
 ### Frontend
 ```
-NEXT_PUBLIC_API_URL=https://your-backend.onrender.com/api
+NEXT_PUBLIC_API_URL=https://ai-travel-planner-0o39.onrender.com/api
 ```
 
 ## Known Limitations
